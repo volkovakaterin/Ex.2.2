@@ -1,0 +1,89 @@
+.idea
+Thumbs.db *
+.DS_Store *
+HELP.md
+расстояние
+док
+
+# Журналы
+журналы
+* .log
+npm-debug.log *
+пряжа-debug.log *
+пряжа-error.log *
+
+# Данные времени выполнения
+pids
+* .pid
+* .seed
+* .pid.lock
+
+# Каталог инструментальных библиотек, созданных jscoverage / JSCover
+lib-cov
+
+# Каталог покрытия, используемый такими инструментами, как istanbul
+покрытие
+
+# NYC тестовое покрытие
+.nyc_output
+
+# Промежуточное хранилище Grunt (https://gruntjs.com/creating-plugins#storing-task-files)
+.grunt
+
+# Каталог зависимостей Bower (https://bower.io/)
+bower_components
+
+# конфигурация node-waf
+.lock-wscript
+
+# Скомпилированные бинарные дополнения (https://nodejs.org/api/addons.html)
+сборка / выпуск
+
+# Каталоги зависимостей
+node_modules /
+jspm_packages /
+
+# Файлы объявлений TypeScript v1
+наборов /
+
+# Необязательный каталог кеша npm
+.npm
+
+# Необязательный кеш eslint
+.eslintcache
+
+# Дополнительная история REPL
+.node_repl_history
+
+# Вывод 'npm pack'
+* .tgz
+
+# Файл целостности пряжи
+.yarn-целостность
+
+# dotenv файл переменных среды
+.env
+.env.test
+
+# кеш сборщика посылок (https://parceljs.org/)
+.cache
+
+# вывод сборки next.js
+.Следующий
+
+# nuxt.js вывод сборки
+.nuxt
+
+# вывод сборки vuepress
+.vuepress / dist
+
+# Бессерверные каталоги
+.serverless /
+
+# Кеш FuseBox
+.fusebox /
+
+# DynamoDB Локальные файлы
+.dynamodb /
+node_modules
+dist
